@@ -8,7 +8,7 @@
 
 ## 課程內容：
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/victorgau/khpy_opencv_intro/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/victorgau/khpy_quant_intro/)
 
 ### 1. 文件導覽
 
