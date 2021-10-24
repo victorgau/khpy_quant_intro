@@ -52,6 +52,7 @@
 
 ### 參考資料
 
+* [IT邦幫忙 - 永豐金融API](https://ithelp.ithome.com.tw/2021ironman/signup/list?group=sinopac-api)
 * [量化交易30天](https://ithelp.ithome.com.tw/users/20129306/ironman/3071)
 * [永豐金融APIs - 從零開始到放棄!?](https://ithelp.ithome.com.tw/users/20141060/ironman/4384)
 * [Part Time Larry](https://www.youtube.com/channel/UCY2ifv8iH1Dsgjrz-h3lWLQ)
