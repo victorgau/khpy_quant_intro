@@ -2,7 +2,7 @@
 
 ## 關於唯客學院：
 
-* [唯客學院網址](http://www.victorgau.com)
+* [唯客學院網址](http://www.vcdemy.com)
 * [唯客學院粉絲團](https://www.facebook.com/KHPYAcademy/)
 * [唯客學院線上課程](https://khpy.teachable.com)
 
@@ -57,3 +57,4 @@
 * [永豐金融APIs - 從零開始到放棄!?](https://ithelp.ithome.com.tw/users/20141060/ironman/4384)
 * [Part Time Larry](https://www.youtube.com/channel/UCY2ifv8iH1Dsgjrz-h3lWLQ)
 * [詹嘉隆的TradingView試煉場](https://www.youtube.com/c/%E8%A9%B9%E5%98%89%E9%9A%86)
+* [超級數字力 - 獨孤九劍](https://www.financemj-9.com/#/home)
