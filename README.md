@@ -3,7 +3,7 @@
 ## 關於唯客學院：
 
 * [唯客學院網址](http://www.vcdemy.com)
-* [唯客學院粉絲團](https://www.facebook.com/KHPYAcademy/)
+* [唯客學院粉絲頁](https://www.facebook.com/vcdemy/)
 * [唯客學院線上課程](https://khpy.teachable.com)
 
 ## 課程內容：
@@ -44,7 +44,6 @@
 
 ### 3. 自我挑戰
 
-* 使用222法則評估基金績效
 * 實作財報選股
 * 實作一個策略使用Backtesting.py回測
 * 實作一個策略使用Backtrader回測
